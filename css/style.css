@@ -3,9 +3,9 @@
     --text-color: white;
     --text-color-secondary: darkgray ;
     --lines-color: rgba(100,100,100,0.3);
-    --accent-color-1: #FBCBCB;
-    --accent-color-2: #F27851;
-    --accent-color-3: #34A847;
+    --accent-color-1: #f5fbcb;
+    --accent-color-2: #19f0e9;
+    --accent-color-3: #97bc27;
     --baseline: 1.5rem;
     --section-spacing: calc(2*var(--baseline));
     --column-spacing: 1.5vw;
